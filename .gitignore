@@ -1,0 +1,17 @@
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# GitHub Copilot credentials
+.obsidian/plugins/github-copilot/secure-credentials.dat
+
+# Obsidian Git credentials/settings
+.obsidian/plugins/obsidian-git/data.json
+
+# Trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
