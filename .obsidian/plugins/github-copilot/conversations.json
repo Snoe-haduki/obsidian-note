@@ -1,0 +1,33 @@
+{
+  "conversations": [
+    {
+      "id": "1783352266212",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1783352266212,
+      "updatedAt": 1783352266212,
+      "model": {
+        "label": "GPT-5.4",
+        "value": "gpt-5.4",
+        "multiplier": "1x",
+        "tier": "High",
+        "supportsReasoningEffort": true
+      }
+    },
+    {
+      "id": "1783352263518",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1783352263518,
+      "updatedAt": 1783352263518,
+      "model": {
+        "label": "GPT-5.4",
+        "value": "gpt-5.4",
+        "multiplier": "1x",
+        "tier": "High",
+        "supportsReasoningEffort": true
+      }
+    }
+  ],
+  "activeConversationId": "1783352266212"
+}
